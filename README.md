@@ -1,7 +1,16 @@
 # Lagrangian Interpolation Polynomial Generator
+
  Lagrangian interpolation polynomial generator
+ 
+ 拉格朗日插值多项式生成器 
+ 
+ 拉格朗日插值多項式生成器
+ 
+ ___
 
 [【Just For Fun】拉格朗日插值多项式生成器 - 知乎](https://zhuanlan.zhihu.com/p/77491558)
+
+___
 
 拉格朗日插值多项式生成器。[什么是拉格朗日插值多项式 ？](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/zh-cn/%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E6%8F%92%E5%80%BC%E6%B3%95)
 
