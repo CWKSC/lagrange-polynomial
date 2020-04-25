@@ -2,8 +2,6 @@
 
  Lagrangian interpolation polynomial generator
  
- 拉格朗日插值多项式生成器 
- 
  拉格朗日插值多項式生成器
  
  ___
@@ -80,7 +78,7 @@ ___
 
 ## ▌代码：
 
-代码是初三到高一写的，可读性很低，有空重构。
+代码中学写的，可读性很低，有空重构。
 
 ```c
 #define _CRT_SECURE_NO_WARNINGS
