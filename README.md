@@ -1,10 +1,10 @@
 # Lagrangian Interpolation Polynomial Generator
 
- Lagrangian interpolation polynomial generator
- 
- 拉格朗日插值多項式生成器
- 
- ___
+Lagrangian interpolation polynomial generator 拉格朗日插值多項式生成器
+
+**There have a better version in my C# Library: [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp)**
+
+___
 
 [【Just For Fun】拉格朗日插值多项式生成器 - 知乎](https://zhuanlan.zhihu.com/p/77491558)
 
