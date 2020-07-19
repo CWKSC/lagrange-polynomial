@@ -6,7 +6,7 @@ Lagrangian interpolation polynomial generator 拉格朗日插值多項式生成�
 
 ___
 
-[【Just For Fun】拉格朗日插值多项式生成器 - 知乎](https://zhuanlan.zhihu.com/p/77491558)
+[【Just For Fun】拉格朗日插值多项式生成器 - 知乎](https://zhuanlan.zhihu.com/p/77491558) （文章已經刪除）
 
 ___
 
