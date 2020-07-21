@@ -7,11 +7,17 @@ This is part of [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) libr
 ### Usage
 
 ```C#
+(double, double) points = { /*...*/ };
 LagrangePolynomial fx = new LagrangePolynomial(points);
 
 fx.Generate(); // return formula string
-fx.Print(); // print formula 
-fx.Invoke(5); // input x to formula and return result (double)
+fx.Print(); // print formula // equal to Console.Write(fx.Generate());
+fx.Invoke(<x>); // input x to formula and return result (double)
+
+// Also provide static method //
+LagrangePolynomial.Generate(points);
+LagrangePolynomial.Print(points);
+LagrangePolynomial.Invoke(<x>, points);
 ```
 
 ### Demo
