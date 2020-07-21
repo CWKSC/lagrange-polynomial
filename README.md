@@ -2,7 +2,7 @@
 
 [What is Lagrange polynomial?](https://en.wikipedia.org/wiki/Lagrange_polynomial) 
 
-This is part of the library [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp)
+This is part of [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) library 
 
 ### Usage
 
