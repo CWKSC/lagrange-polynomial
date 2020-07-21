@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lagrange-Polynomial", "Lagrange-Polynomial\Lagrange-Polynomial.csproj", "{88A52B0A-AB5C-462B-8A36-1CBB023E4046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A52B0A-AB5C-462B-8A36-1CBB023E4046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A52B0A-AB5C-462B-8A36-1CBB023E4046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A52B0A-AB5C-462B-8A36-1CBB023E4046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A52B0A-AB5C-462B-8A36-1CBB023E4046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6654CC6-C78C-4261-AF2E-A2B83EEBF3EE}
+	EndGlobalSection
+EndGlobal

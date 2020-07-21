@@ -1,0 +1,13 @@
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.csprojAssemblyReference.cache
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.AssemblyInfoInputs.cache
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.AssemblyInfo.cs
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.csproj.CoreCompileInputs.cache
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\bin\Debug\netcoreapp3.1\Lagrange-Polynomial.exe
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\bin\Debug\netcoreapp3.1\Lagrange-Polynomial.deps.json
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\bin\Debug\netcoreapp3.1\Lagrange-Polynomial.runtimeconfig.json
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\bin\Debug\netcoreapp3.1\Lagrange-Polynomial.runtimeconfig.dev.json
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\bin\Debug\netcoreapp3.1\Lagrange-Polynomial.dll
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\bin\Debug\netcoreapp3.1\Lagrange-Polynomial.pdb
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.dll
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.pdb
+D:\User\Develop\GitHub\Lagrange-Polynomial\Lagrange-Polynomial\Lagrange-Polynomial\obj\Debug\netcoreapp3.1\Lagrange-Polynomial.genruntimeconfig.cache
