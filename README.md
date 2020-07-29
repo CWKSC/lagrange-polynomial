@@ -6,6 +6,10 @@ This is part of [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) C# l
 
 If you already include this library, its functionality is already included
 
+Note that there are some extension methods for printing on Demo
+
+For example: `"42".Print() == Console.Write("42")`, `"42".Printlnln() == Console.WriteLine("42" + "\n");`
+
 ### Usage
 
 ```C#
@@ -13,7 +17,7 @@ If you already include this library, its functionality is already included
 LagrangePolynomial fx = new LagrangePolynomial(points);
 
 fx.Generate(); // return formula string
-fx.Print(); // print formula // equal to Console.Write(fx.Generate());
+fx.Print(); // print formula // Equal to Console.Write(fx.Generate()) or fx.Generate().Print()
 fx.Invoke(<x>); // input x to formula and return result (double)
 
 // Also provide static method //
