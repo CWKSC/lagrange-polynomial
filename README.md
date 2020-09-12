@@ -4,7 +4,7 @@
 
 This is part of [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) C# library 
 
-If you already include this library, its functionality is already included
+If you include this library, its functionality is already included
 
 Note that there are some extension methods for printing on Demo
 
