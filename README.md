@@ -1,16 +1,24 @@
 # Lagrange polynomial
 
-[What is Lagrange polynomial?](https://en.wikipedia.org/wiki/Lagrange_polynomial) 
+> [!NOTE]  
+>
+> I am interested in how interpolating polynomial function by some x y point
+>
+> And I found [Lagrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial) can do that
+> 
+> This project started when I am in secondary school, originally written in C, and I rewrote it in C#
 
-This is part of [CWKSC/MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) C# library 
+> [!NOTE]  
+>
+> This is part of [CWKSC/MyLib_Csharp](https://github.com/CWKSC/mylib_csharp) C# library, old and no longer maintain
+>
+> If you include this library, its functionality is already included
+>
+> There are some extension methods for printing on Demo
+> 
+> For example: `"42".Print() == Console.Write("42")`, `"42".Printlnln() == Console.WriteLine("42" + "\n");`
 
-If you include this library, its functionality is already included
-
-Note that there are some extension methods for printing on Demo
-
-For example: `"42".Print() == Console.Write("42")`, `"42".Printlnln() == Console.WriteLine("42" + "\n");`
-
-### Usage
+## Usage
 
 ```C#
 (double, double) points = { /*...*/ };
@@ -20,7 +28,7 @@ fx.Generate(); // return formula string
 fx.Print(); // print formula // Equal to Console.Write(fx.Generate()) or fx.Generate().Print()
 fx.Invoke(<x>); // input x to formula and return result (double)
 
-// Also provide static method //
+// Also provide static method
 LagrangePolynomial.Generate(points);
 LagrangePolynomial.Print(points);
 LagrangePolynomial.Invoke(<x>, points);
@@ -33,7 +41,7 @@ LagrangePolynomial.Invoke(<x>, points);
 
 ("Generate LagrangePolynomial of " + points.ToStr()).Printlnln();
 
-// Instance //
+// Instance
 "Using Instance Method".Printlnln();
 
 LagrangePolynomial fx = new LagrangePolynomial(points);
@@ -44,7 +52,7 @@ fx.Generate().Printlnln();
 fx.Invoke(5).Printlnlnln();
 
 
-// Static Method //
+// Static Method
 "Using Static Method".Printlnln();
 
 "f(x) = ".Println();
